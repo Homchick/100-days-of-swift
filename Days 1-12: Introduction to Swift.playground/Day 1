@@ -1,0 +1,27 @@
+import UIKit
+/// Variables 
+var str = "Hello, playground"
+str = "Goodbye"
+
+/// String and integers 
+var age = 25
+var population = 8_000_000
+// var populatuin = 8000000 = 8_000_000
+
+/// Multi-line strings
+var str1 = """
+This goes
+over multiple
+lines
+"""
+// Rows separately
+var str2 = """
+This goes \
+over multiple \
+lines
+"""
+
+/// Doubles and booleans
+var pi = 3.141
+var awesome = true
+
